@@ -194,6 +194,10 @@ class PyBambooHR(object):
             "4537":("text", ""),#key_issued
             "4535":("date", ""),#key_date_pass
             "4568":("text", ""),#key_ogrnip
+            "customAddressLine1":("text", ""),
+            "customAddressLine2":("text", ""),
+
+            
 
         }
 
