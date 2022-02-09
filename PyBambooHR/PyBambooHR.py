@@ -185,7 +185,7 @@ class PyBambooHR(object):
             "benefitClassDate": ("date", ""),
             "benefitClassClass": ("list", ""),
             "benefitClassChangeReason": ("list", ""),
-            "4530":("text", "")#key_name
+            "4530":("text", ""),#key_name
             "4531":("text", ""),#key_patr
             "4532":("text", ""),#key_surname
             "4534":("text", ""),#key_passport
