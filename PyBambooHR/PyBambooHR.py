@@ -185,6 +185,16 @@ class PyBambooHR(object):
             "benefitClassDate": ("date", ""),
             "benefitClassClass": ("list", ""),
             "benefitClassChangeReason": ("list", ""),
+            "4530":("text", "")#key_name
+            "4531":("text", ""),#key_patr
+            "4532":("text", ""),#key_surname
+            "4534":("text", ""),#key_passport
+            "4528":("text", ""),#key_inn
+            "4567":("text", ""),#key_snils
+            "4537":("text", ""),#key_issued
+            "4535":("date", ""),#key_date_pass
+            "4568":("text", ""),#key_ogrnip
+
         }
 
         # dicctionary with employees data
