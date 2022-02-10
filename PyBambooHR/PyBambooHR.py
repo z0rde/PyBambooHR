@@ -196,8 +196,16 @@ class PyBambooHR(object):
             "4568":("text", ""),#key_ogrnip
             "customAddressLine1":("text", ""),
             "customAddressLine2":("text", ""),
-
-            
+            "3991":("text",""),#country
+            "8":("text",""),#address line 1
+            "9":("text",""),#flat
+            "10":("text",""),#city of registration
+            "4543":("text",""),#country code
+            "4598":("text",""),#?
+            "4542":("text",""),#city of residence
+            "4416":("text",""),#?
+            "4414":("text",""),#?
+            "4600":("text",""),#?       
 
         }
 
