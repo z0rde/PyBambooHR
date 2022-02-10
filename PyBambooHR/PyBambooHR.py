@@ -205,6 +205,7 @@ class PyBambooHR(object):
             "4542":("text",""),#city of residence
             "4416":("text",""),#?
             "4414":("text",""),#?
+            "4430":("text",""),#?       
             "4600":("text",""),#?       
 
         }
