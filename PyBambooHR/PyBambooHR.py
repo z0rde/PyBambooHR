@@ -196,9 +196,20 @@ class PyBambooHR(object):
             "4414":("text",""),#?
             "4430":("text",""),#?       
             "4600":("text",""),#? 
-            "4552":("text",""),#?     
-              
-
+            "4552":("text",""),#?   
+            
+            "4647":("text",""),#customRegistrationAddress:City
+            "4650":("text",""),#customRegistrationAddress:Country
+            "4648":("text",""),#customRegistrationAddress:State      
+            "4649":("text",""),#customRegistrationAddressLine1 
+            "4646":("text",""),#customRegistrationAddressLine2 
+            
+            "4542":("text",""),#Residence Address: City
+            "4545":("text",""),#Residence Address: Country
+            "4543":("text",""),#Residence Address: State      
+            "4540":("text",""),#Residence Address Line 1 
+            "4541":("text",""),#Residence Address Line 2
+        
         }
 
         # dicctionary with employees data
