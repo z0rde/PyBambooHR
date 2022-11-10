@@ -209,6 +209,9 @@ class PyBambooHR(object):
             "4543":("text",""),#Residence Address: State      
             "4540":("text",""),#Residence Address Line 1 
             "4541":("text",""),#Residence Address Line 2
+            
+            "4671":("text",""),#customSocialNumberIssueCountry
+            "4672":("text",""),#customSocialNumber
         
         }
 
