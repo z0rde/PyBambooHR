@@ -212,6 +212,13 @@ class PyBambooHR(object):
             
             "4671":("text",""),#customSocialNumberIssueCountry
             "4672":("text",""),#customSocialNumber
+            
+            "4791":("text",""),#Comment
+            "4787":("text",""),#Date
+            "4789":("text",""),#Evaluation
+            "4790":("text",""),#Link
+            "4788":("text",""),#Name
+            
         
         }
 
